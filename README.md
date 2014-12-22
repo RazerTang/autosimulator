@@ -9,4 +9,4 @@ run simulator without xcode(avaliable xcode 6+),look screen-shot.png
 4.at first time,you should check the "Build"  
 5.run simulator,it will build the project  
 7.uncheck "Build"  
-8.run sumulator again,it will launch the simulator the show log  
+8.run sumulator again,it will launch then simulator the show log  
